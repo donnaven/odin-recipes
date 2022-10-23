@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #22223b;
+    color: #9a8c98;
+    text-align: center;
+}
+h1 {
+    background-color: #4a4e69;
+}
+
+a {
+    color: #9a8c98; 
+}
+
+ul, ol {
+    text-align: center;
+    list-style-position: inside;
+}
