@@ -3,7 +3,7 @@
 structure. The assignment was to create a website with 3 different recipes using lists and links.
 
 I have demonstrated:
-    - the use of `a href` links,
-    - the use of ordered lists,
-    - the use of unordered lists,
-    - and basic HTML knowledge
+    - the use of `a href` links, <br />
+    - the use of ordered lists, <br />
+    - the use of unordered lists, <br />
+    - and basic HTML knowledge <br />
